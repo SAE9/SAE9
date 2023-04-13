@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **HTML,CSS and Java script**
 - 👯 I’m open to collaborations
-- Based in London
+- 🌎 Based in London
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
