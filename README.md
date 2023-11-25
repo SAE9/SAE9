@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Sumayyah Emama</h1>
 <h3 align="center">A student currently studying software development.</h3>
 
-- 🌱 I’m currently learning **HTML,CSS and Java script**
+- 🌱 I’m currently learning **HTML,CSS, Java script and python**
 - 👯 I’m open to collaborations
 - 🌎 Based in London
 
